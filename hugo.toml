@@ -1,4 +1,4 @@
-baseURL = 'https://godwin-blog.netlify.com/'
+baseURL = "https://navdevl.github.io/godwin-blog/"
 languageCode = 'en-us'
 title = "Godwin's Blog"
 theme = 'archie'
