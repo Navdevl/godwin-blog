@@ -1,8 +1,7 @@
 backend:
   name: git-gateway
   repo: navdevl/godwin-blog # Path to your GitHub repository
-  # optional, defaults to master
-  # branch: main
+  branch: main
 
 
 media_folder: static/img
