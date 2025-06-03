@@ -23,9 +23,7 @@ collections:
   
   - name: 'about'
     label: 'About'
-    folder: 'content/about'
-    create: true
-    slug: '{{slug}}'
+    file: 'content/about.md'
     editor:
       preview: false
     fields:
