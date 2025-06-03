@@ -1,6 +1,6 @@
 ---
 title: "How I Learned to Stop Procrastinating, & Love Letting Go"
-date: 2025-03-18T12:13:32+05:30
+date: 2025-03-18
 description: "The art of letting go."
 tags: [Procrastinating]
 ---

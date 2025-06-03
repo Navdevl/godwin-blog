@@ -1,6 +1,6 @@
 ---
 title: Swiggy vs Dunzo
-date: 2025-06-03 19:45:00
+date: 2025-06-03
 description: Swiggy specializes in food and grocery delivery, while Dunzo
   focuses on hyperlocal errands and pickups. Swiggy offers scale and
   consistency; Dunzo provides flexibility and utility.
