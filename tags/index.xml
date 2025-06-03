@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Godwin&#39;s Blog</title>
+    <link>https://navdevl.github.io/godwin-blog/tags/</link>
+    <description>Recent content in Tags on Godwin&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Apr 2025 02:01:58 +0530</lastBuildDate>
+    <atom:link href="https://navdevl.github.io/godwin-blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Primer</title>
+      <link>https://navdevl.github.io/godwin-blog/tags/primer/</link>
+      <pubDate>Tue, 01 Apr 2025 02:01:58 +0530</pubDate>
+      <guid>https://navdevl.github.io/godwin-blog/tags/primer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Todo</title>
+      <link>https://navdevl.github.io/godwin-blog/tags/todo/</link>
+      <pubDate>Tue, 01 Apr 2025 02:01:58 +0530</pubDate>
+      <guid>https://navdevl.github.io/godwin-blog/tags/todo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Procrastinating</title>
+      <link>https://navdevl.github.io/godwin-blog/tags/procrastinating/</link>
+      <pubDate>Tue, 18 Mar 2025 12:13:32 +0530</pubDate>
+      <guid>https://navdevl.github.io/godwin-blog/tags/procrastinating/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Space</title>
+      <link>https://navdevl.github.io/godwin-blog/tags/space/</link>
+      <pubDate>Tue, 18 Mar 2025 12:13:30 +0530</pubDate>
+      <guid>https://navdevl.github.io/godwin-blog/tags/space/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
