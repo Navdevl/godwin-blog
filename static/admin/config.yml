@@ -16,16 +16,19 @@ collections:
       preview: false
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime', format: 'LL', picker_utc: 'False', default: "{{now}}" }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime', format: 'LL', picker_utc: false}
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - { label: 'Tags', name: 'tags', widget: 'list', allow_multiple: true, required: false }
   
-  - name: 'about'
-    label: 'About'
-    file: 'content/about.md'
-    editor:
-      preview: false
-    fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'pages'
+    label: 'Pages'
+    files:
+      - name: 'about'
+        label: 'About'
+        file: 'content/about.md'
+        editor:
+          preview: false
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
