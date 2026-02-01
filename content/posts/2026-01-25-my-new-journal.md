@@ -1,6 +1,6 @@
 ---
 title: MY NEW JOURNAL!!!
-date: January 26, 2026
+date: 2026-01-26
 description: A little note about my journey and how grateful I am for everything
   it’s taught me. Just appreciating the people, lessons, and moments that helped
   me grow and move forward.
