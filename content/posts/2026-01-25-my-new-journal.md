@@ -5,7 +5,7 @@ description: A little note about my journey and how grateful I am for everything
   it’s taught me. Just appreciating the people, lessons, and moments that helped
   me grow and move forward.
 tags:
-  - "#Myownpersonalwork"
+  - "Myownpersonalwork"
 ---
 "**Stay patient and trust your journey.**” - Roy T. Bennett
 
